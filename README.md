@@ -30,7 +30,7 @@
 | **Mobile (Advanced)** | **Kotlin + UI Automator.** Тестирование на уровне системы Android и межпрограммного взаимодействия. | [📱 OS System UI](https://github.com/Yaroslav-neto/uiautomatora_android) |
 | **Web UI (Modern)** | **Java + Playwright.** Паттерн Page Object (POM), параллельный запуск тестов. | [⚡ Playwright Java](https://github.com/Yaroslav-neto/Web-Automation-Playwright-Java) |
 | **CMS & Performance** | **Selenide + JMeter.** E2E тесты + нагрузочное тестирование (Performance). | [🌐 WordPress CMS](https://github.com/Yaroslav-neto/wordpress) |
-| **External API** | **Retrofit / OkHttp.** Интеграция и тестирование публичных API (NASA API). | [🌌 NASA API Case](https://github.com/Yaroslav-neto/Nasa_Get_Picture) |
+| **External API** | **Retrofit / OkHttp.** Telegram-бота на Java для интеграции с NASA Open API и Horoscope API. Реализована логика обработки команд, парсинг данных и взаимодействие с внешними HTTP-сервисами (Retrofit/OkHttp). REST-архитектура. | [🌌 NASA API Case](https://github.com/Yaroslav-neto/Nasa_Get_Picture) |
 | **API Contracts** | **Rest-Assured + JSON Schema.** Валидация контрактов и схем ответов. | [📑 Swagger Validation](https://github.com/Yaroslav-neto/Swagger) |
 | **Database** | **SQL.** Написание сложных запросов, агрегация и проверка данных. | [📊 SQL Logic](https://github.com/Yaroslav-neto/SQL) |
 | **JS Automation** | **Cypress / Puppeteer.** E2E тестирование на JavaScript/Node.js стеке. | [🧪 Cypress](https://github.com/Yaroslav-neto/Cypress1) \| [🎭 Puppeteer](https://github.com/Yaroslav-neto/Puppeteer2) |
