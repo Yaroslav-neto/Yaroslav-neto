@@ -26,6 +26,7 @@
 | Направление | Стек и описание | Ссылка на проект |
 | :--- | :--- | :--- |
 | **API & CI/CD** | **Java + Rest-Assured.** Автоматизация CRUD, интеграция с **GitHub Actions** и Allure. | [🚀 API Framework](https://github.com/Yaroslav-neto/API-Automation-Framework-Java) |
+| **Mobile (Diploma)** | **Android + Espresso.** Автоматизация UI, работа с Mock-заглушками и PowerShell скрипты. | [📜 Дипломный проект](https://github.com/Yaroslav-neto/DIPLOM) |
 | **Mobile (Advanced)** | **Kotlin + UI Automator.** Тестирование на уровне системы Android и межпрограммного взаимодействия. | [📱 OS System UI](https://github.com/Yaroslav-neto/uiautomatora_android) |
 | **Web UI (Modern)** | **Java + Playwright.** Паттерн Page Object (POM), параллельный запуск тестов. | [⚡ Playwright Java](https://github.com/Yaroslav-neto/Web-Automation-Playwright-Java) |
 | **CMS & Performance** | **Selenide + JMeter.** E2E тесты + нагрузочное тестирование (Performance). | [🌐 WordPress CMS](https://github.com/Yaroslav-neto/wordpress) |
