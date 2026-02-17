@@ -34,7 +34,7 @@
 | **API Contracts** | **Rest-Assured + JSON Schema.** Валидация контрактов и схем ответов. | [📑 Swagger Validation](https://github.com/Yaroslav-neto/Swagger) |
 | **Database** | **SQL.** Написание сложных запросов, агрегация и проверка данных. | [📊 SQL Logic](https://github.com/Yaroslav-neto/SQL) |
 | **JS Automation** | **Cypress / Puppeteer.** E2E тестирование на JavaScript/Node.js стеке. | [🧪 Cypress](https://github.com/Yaroslav-neto/Cypress1) \| [🎭 Puppeteer](https://github.com/Yaroslav-neto/Puppeteer2) |
-| **Unit / Logic** | **JUnit 5.** Параметризованные тесты и проверка бизнес-логики. | [📈 Metrics Unit](https://github.com/Yaroslav-neto/Metrics) |
+| **Unit / Logic** | **JUnit 5 / Jenkins.** Параметризованные тесты и проверка бизнес-логики. | [📈 Metrics Unit](https://github.com/Yaroslav-neto/Metrics) |
 
 
 ---
