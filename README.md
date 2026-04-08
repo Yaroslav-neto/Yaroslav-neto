@@ -25,6 +25,7 @@
 
 | Направление | Стек и описание | Ссылка на проект |
 | :--- | :--- | :--- |
+| **AI & Infrastructure** | **Python (FastAPI) + Docker + EasyOCR + Nginx + PostgreSQL + SQL. Разработка ИИ-сервиса анализа составов на площадках Android и Telegram. Реализована защита (Nginx Stealth), поддержка GPU (CUDA) и гибридная архитектура. | [💎 Check4Beauty Brain](https://check4beautybrain.ru) |
 | **API & CI/CD** | **Java + Rest-Assured.** Автоматизация CRUD, интеграция с **GitHub Actions** и Allure. | [🚀 API Framework](https://github.com/Yaroslav-neto/API-Automation-Framework-Java) |
 | **Mobile (Diploma)** | **Android + Espresso.** Автоматизация UI, работа с Mock-заглушками и PowerShell скрипты. | [📜 Дипломный проект](https://github.com/Yaroslav-neto/DIPLOM) |
 | **Mobile (Advanced)** | **Kotlin + UI Automator.** Тестирование на уровне системы Android и межпрограммного взаимодействия. | [📱 OS System UI](https://github.com/Yaroslav-neto/uiautomatora_android) |
